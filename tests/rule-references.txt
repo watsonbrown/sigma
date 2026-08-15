@@ -111,6 +111,7 @@ https://app.any.run/tasks/64043a79-165f-4052-bcba-e6e49f847ec1/
 https://app.any.run/tasks/649e7b46-9bec-4d05-98a5-dfa9a13eaae5/
 https://app.any.run/tasks/65a79440-373a-4725-8d74-77db9f2abda4/
 https://app.any.run/tasks/6720b85b-9c53-4a12-b1dc-73052a78477d
+https://app.any.run/tasks/69c5abaa-92ad-45ba-8c53-c11e23e05d04/
 https://app.any.run/tasks/6d8cabb0-dcda-44b6-8050-28d6ce281687/
 https://app.any.run/tasks/7123e948-c91e-49e0-a813-00e8d72ab393/#
 https://app.any.run/tasks/713f05d2-fe78-4b9d-a744-f7c133e3fafb/
@@ -328,6 +329,8 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://cardinalops.com/blog/living-off-winrm-abusing-complexity-in-remote-management/
+https://catalyst.prodaft.com/public/report/inside-the-latest-espionage-campaign-of-nebulous-mantis
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -439,6 +442,7 @@ https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-secur
 https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-user-settings#GRANT_ADMIN_PRIVILEGE
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.Firewalls.html
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.PacketMirrorings.html
+https://developers.google.com/workspace/admin/reports/v1/appendix/activity/login#suspicious_programmatic_login
 https://developers.onelogin.com/api-docs/1/events/event-resource
 https://developers.onelogin.com/api-docs/1/events/event-resource/
 https://deviceatlas.com/blog/list-of-user-agent-strings#desktop
@@ -1110,6 +1114,7 @@ https://github.com/lclevy/firepwd
 https://github.com/Lifka/hacking-resources/blob/c2ae355d381bd0c9f0b32c4ead049f44e5b1573f/cloud-hacking-cheat-sheets.md
 https://github.com/lijiejie/IIS_shortname_Scanner
 https://github.com/lkys37en/Start-ADEnum/blob/5b42c54215fe5f57fc59abc52c20487d15764005/Functions/Start-ADEnum.ps1#L680
+https://github.com/logangoins/Krueger/tree/main
 https://github.com/logangoins/SharpSuccessor
 https://github.com/LOLBAS-Project/LOLBAS/blob/2cc01b01132b5c304027a658c698ae09dd6a92bf/yml/OSBinaries/Esentutl.yml
 https://github.com/LOLBAS-Project/LOLBAS/blob/2cc01b01132b5c304027a658c698ae09dd6a92bf/yml/OSBinaries/Wbadmin.yml
@@ -1226,6 +1231,7 @@ https://github.com/outflanknl/Dumpert
 https://github.com/outflanknl/NetshHelperBeacon
 https://github.com/p0dalirius/LDAPmonitor
 https://github.com/p0shkatz/Get-ADS/blob/1c3a3562e713c254edce1995a7d9879c687c7473/Get-ADS.ps1
+https://github.com/p3Nt3st3r-sTAr/CVE-2026-41089
 https://github.com/p3nt4/PowerShdll
 https://github.com/p3nt4/PowerShdll/blob/62cfa172fb4e1f7f4ac00ca942685baeb88ff356/README.md
 https://github.com/pathtofile/bad-bpf
@@ -1856,6 +1862,7 @@ https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-tr
 https://labs.sentinelone.com/sarwent-malware-updates-command-detonation/
 https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
 https://labs.sentinelone.com/top-tier-russian-organized-cybercrime-group-unveils-fileless-stealthy-powertrick-backdoor-for-high-value-targets/
+https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/?123
 https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/
 https://labs.watchtowr.com/xortigate-or-cve-2023-27997/
 https://labs.withsecure.com/content/dam/labs/docs/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf
@@ -1864,6 +1871,7 @@ https://labs.withsecure.com/publications/detecting-onenote-abuse
 https://labs.withsecure.com/publications/fin7-target-veeam-servers
 https://labs.withsecure.com/publications/fin7-target-veeam-servers/jcr:content/root/responsivegrid/responsivegrid/responsivegrid/image_253944286.img.png/1682500394900.png
 https://labs.withsecure.com/publications/kapeka
+https://labs.yarix.com/2025/06/doppelganger-an-advanced-lsass-dumper-with-process-cloning/
 https://ladydebug.com/blog/2019/06/21/custom-protocol-handler-cph/
 https://learn.microsoft.com/de-de/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
 https://learn.microsoft.com/de-de/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3
@@ -1916,6 +1924,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-process-creations-originating-from-psexec-and-wmi-commands
 https://learn.microsoft.com/en-us/defender-endpoint/configure-process-opened-file-exclusions-microsoft-defender-antivirus
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus
+https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5001
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5010
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5012
@@ -2130,6 +2139,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/start
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
@@ -2428,6 +2438,7 @@ https://micahbabinski.medium.com/search-ms-webdav-and-chill-99c5b23ac462
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/container%20service%20account/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Data%20destruction/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Exec%20into%20container/
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/List%20K8S%20secrets/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Pod%20or%20container%20name%20similarily/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Privileged%20container/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Sidecar%20Injection/
@@ -2710,6 +2721,7 @@ https://seclists.org/fulldisclosure/2023/Jan/1
 https://securelist.com/andariel-deploys-dtrack-and-maui-ransomware/107063/
 https://securelist.com/apt-luminousmoth/103332/
 https://securelist.com/apt-slingshot/84312/
+https://securelist.com/apt41-in-africa/116986/
 https://securelist.com/blog/research/77725/from-shamoon-to-stonedrill/
 https://securelist.com/chafer-used-remexi-malware/89538/
 https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/
@@ -3466,6 +3478,7 @@ https://web.archive.org/web/20200302083912/https://www.accenture.com/t20180127T0
 https://web.archive.org/web/20200329173843/https://p16.praetorian.com/blog/how-to-use-kerberoasting-t1208-for-privilege-escalation
 https://web.archive.org/web/20200419024230/https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
 https://web.archive.org/web/20200530031708/https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://web.archive.org/web/20200530031906/https://techtalk.pcmatic.com/2017/11/30/running-dll-files-malware-analysis/
 https://web.archive.org/web/20200618080300/https://www.verfassungsschutz.de/embed/broschuere-2020-06-bfv-cyber-brief-2020-01.pdf
 https://web.archive.org/web/20200903194959/https://twitter.com/djmtshepana/status/1301608169496612866
 https://web.archive.org/web/20200925032237/https://threathunterplaybook.com/notebooks/windows/02_execution/WIN-190410151110.html
@@ -3671,6 +3684,7 @@ https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout
 https://www.elastic.co/guide/en/security/current/microsoft-iis-connection-strings-decryption.html
 https://www.elastic.co/guide/en/security/current/microsoft-iis-service-account-password-dumped.html
 https://www.elastic.co/guide/en/security/current/potential-invoke-mimikatz-powershell-script.html#potential-invoke-mimikatz-powershell-script
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
 https://www.elastic.co/guide/en/security/current/potential-remote-desktop-tunneling-detected.html
 https://www.elastic.co/guide/en/security/current/privilege-escalation-via-named-pipe-impersonation.html
 https://www.elastic.co/guide/en/security/current/remote-file-copy-to-a-hidden-share.html
@@ -4324,6 +4338,7 @@ https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attac
 https://x.com/0x534c/status/1944694507787710685
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
+https://x.com/cyberfeeddigest/status/1887041526397587859
 https://x.com/defusedcyber/status/1971492272966598683
 https://x.com/nas_bench/status/1868639048484425963
 https://x.com/NullSecurityX/status/1937444064867029179
