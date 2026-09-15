@@ -55,6 +55,7 @@ https://admx.help/?Category=Office2016&Policy=office16.Office.Microsoft.Policies
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.ControlPanelDisplay::CPL_Personalization_NoDesktopBackgroundUI
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_ProxyByPass
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_UNCAsIntranet
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.PowerShell::EnableScripts
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
 https://admx.help/?Category=Windows_7_2008R2&Policy=Microsoft.Policies.InternetCommunicationManagement::EventViewer_DisableLinks
@@ -387,6 +388,7 @@ https://countuponsecurity.com/2017/06/07/threat-hunting-in-the-enterprise-with-a
 https://craigclouditpro.wordpress.com/2020/03/04/hunting-malicious-windows-defender-activity/
 https://csirt-cti.net/2024/02/01/stately-taurus-continued-new-information-on-cyberespionage-attacks-against-myanmar-military-junta/
 https://curl.se/docs/manpage.html
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-31324
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-49144
 https://cyber.wtf/2021/11/15/guess-whos-back/
 https://cyber.wtf/2023/12/06/the-csharp-streamer-rat/
@@ -443,6 +445,7 @@ https://developers.onelogin.com/api-docs/1/events/event-resource
 https://developers.onelogin.com/api-docs/1/events/event-resource/
 https://deviceatlas.com/blog/list-of-user-agent-strings#desktop
 https://df-stream.com/2014/01/the-windows-7-event-log-and-usb-device/
+https://dfir.ch/posts/linux_capabilities/
 https://dfironthemountain.wordpress.com/2018/12/06/locked-file-access-using-esentutl-exe/
 https://digital.nhs.uk/cyber-alerts/2018/cc-2825
 https://dirkjanm.io/a-different-way-of-abusing-zerologon/
@@ -701,6 +704,7 @@ https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/#enabling-core-dum
 https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joatd/index.html
 https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-reference/cortex-xdr-analytics-alert-reference/scrcons-exe-rare-child-process.html
 https://docs.python.org/2/library/simplehttpserver.html
+https://docs.python.org/3/library/http.server.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/getting-started-with-nftables_configuring-and-managing-networking
@@ -1948,6 +1952,7 @@ https://learn.microsoft.com/en-us/entra/architecture/security-operations-privile
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#changes-to-privileged-accounts
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#things-to-monitor
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-identity-management#azure-ad-roles-assignment
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-user-accounts#monitoring-for-failed-unusual-sign-ins
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-user-accounts#short-lived-accounts
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-user-accounts#unusual-sign-ins
 https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-how-to-configure-security-alerts#administrators-arent-using-their-privileged-roles
@@ -1995,6 +2000,7 @@ https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/4464eaf0-f
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/d42db7d5-f141-4466-8f47-0a4be14e2fc1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rrp/0fa3191d-bb79-490a-81bd-54c2601b7a78
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/02b1f559-fda2-4ba3-94c2-806eb2777183
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wkst/55118c55-2122-4ef9-8664-0c1ff9e168f3
 https://learn.microsoft.com/en-us/outlook/troubleshoot/security/information-about-email-security-settings
 https://learn.microsoft.com/en-us/powershell/high-performance-computing/mpiexec?view=hpc19-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer
@@ -2044,6 +2050,7 @@ https://learn.microsoft.com/en-us/powershell/module/storage/mount-diskimage?view
 https://learn.microsoft.com/en-us/powershell/scripting/developer/module/understanding-a-windows-powershell-module?view=powershell-7.3
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/generating-the-data-service-client-library-wcf-data-services
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/how-to-add-a-data-service-reference-wcf-data-services
+https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/wcf-data-service-client-utility-datasvcutil-exe
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/xml/xslt/xslt-stylesheet-scripting-using-msxsl-script
 https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/automate-word-create-file-using-visual-basic
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa394225(v=vs.85)
@@ -2054,6 +2061,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4649
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4661
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4662
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4673
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4698
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4699
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
@@ -2679,6 +2687,8 @@ https://research.splunk.com/cloud/c783dd98-c703-4252-9e8a-f19d9f5c949e/
 https://research.splunk.com/cloud/e155876a-6048-11eb-ae93-0242ac130002/
 https://research.splunk.com/endpoint/07921114-6db4-4e2e-ae58-3ea8a52ae93f/
 https://research.splunk.com/endpoint/10399c1e-f51e-11eb-b920-acde48001122/
+https://research.splunk.com/endpoint/3742ebfe-64c2-11eb-ae93-0242ac130002
+https://research.splunk.com/endpoint/76406a0f-f5e0-4167-8e1f-337fdc0f1b0c/
 https://research.splunk.com/endpoint/linux_doas_conf_file_creation/
 https://research.splunk.com/endpoint/linux_doas_tool_execution/
 https://research.splunk.com/endpoint/windows_possible_credential_dumping/
@@ -2715,6 +2725,7 @@ https://securelist.com/chafer-used-remexi-malware/89538/
 https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/
 https://securelist.com/faq-the-projectsauron-apt/75533/
 https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+https://securelist.com/key-group-ransomware-samples-and-telegram-schemes/114025/
 https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 https://securelist.com/locked-out/68960/
@@ -2747,6 +2758,7 @@ https://securityintelligence.com/posts/raspberry-robin-worm-dridex-malware/
 https://securityintelligence.com/x-force/x-force-hive0129-targeting-financial-institutions-latam-banking-trojan/
 https://securityjosh.github.io/2020/04/23/Mute-Sysmon.html
 https://securitylab.github.com/research/octopus-scanner-malware-open-source-supply-chain
+https://securitylabs.datadoghq.com/articles/shai-hulud-2.0-npm-worm/
 https://securitylabs.datadoghq.com/cloud-security-atlas/vulnerabilities/iam-user-without-mfa/
 https://securityliterate.com/how-malware-abuses-the-zone-identifier-to-circumvent-detection-and-analysis/
 https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware
@@ -2874,6 +2886,7 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://sysdig.com/blog/mitre-defense-evasion-falco
 https://systeminformer.sourceforge.io/
 https://t.co/ezOTGy1a1G
+https://taggart-tech.com/evildeno/
 https://taggart-tech.com/quasar-electron/
 https://taiwan.postsen.com/business/88601/Hamas-hackers-use-data-destruction-software-BiBi-which-consumes-a-lot-of-processor-resources-to-wipe-Windows-computer-data--iThome.html
 https://talesfrominfosec.blogspot.com/2017/12/killing-sysmon-silently.html
@@ -3424,6 +3437,7 @@ https://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/
 https://unit42.paloaltonetworks.com/unit42-sure-ill-take-new-combojack-malware-alters-clipboards-steal-cryptocurrency/
 https://unit42.paloaltonetworks.com/unit42-technical-walkthrough-office-test-persistence-method-used-in-recent-sofacy-attacks/
 https://unit42.paloaltonetworks.com/unsigned-dlls/?web_view=true
+https://unprotect.it/technique/right-to-left-override-rlo-extension-spoofing/
 https://us-cert.cisa.gov/ncas/alerts/aa21-008a
 https://us-cert.cisa.gov/ncas/analysis-reports/ar19-304a
 https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a
@@ -3822,6 +3836,7 @@ https://www.jpcert.or.jp/english/pub/sr/ir_research.html
 https://www.justice.gov/file/1080281/download
 https://www.justice.gov/usao-cdca/divisions/national-security-division/qakbot-resources
 https://www.kaspersky.com/blog/lazarus-vhd-ransomware/36559/
+https://www.kernel.org/doc/html/v4.10/_sources/admin-guide/sysrq.txt
 https://www.kernel.org/doc/html/v5.0/trace/kprobetrace.html
 https://www.kroll.com/en/insights/publications/cyber/microsoft-teams-used-as-initial-access-for-darkgate-malware
 https://www.kroll.com/en/insights/publications/cyber/new-m365-business-email-compromise-attacks-with-rclone
@@ -4022,6 +4037,7 @@ https://www.sans.org/cyber-security-summit/archives
 https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
 https://www.sans.org/webcasts/119395
 https://www.sans.org/webcasts/tech-tuesday-workshop-cobalt-strike-detection-log-analysis-119395
+https://www.scpx.com.au/2025/11/16/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/
 https://www.scythe.io/library/threat-emulation-qakbot
 https://www.secuinfra.com/en/techtalk/hide-your-hypervisor-analysis-of-esxiargs-ransomware/
 https://www.secura.com/blog/zero-logon
@@ -4217,6 +4233,7 @@ https://www.virustotal.com/gui/file/60bcd645450e4c846238cf0e7226dc40c84c96eba99f
 https://www.virustotal.com/gui/file/69fe77dd558e281621418980040e2af89a2547d377d0f2875502005ce22bc95c
 https://www.virustotal.com/gui/file/6d3ab9e729bb03ae8ae3fcd824474c5052a165de6cb4c27334969a542c7b261d/detection
 https://www.virustotal.com/gui/file/6f0f20da34396166df352bf301b3c59ef42b0bc67f52af3d541b0161c47ede05
+https://www.virustotal.com/gui/file/71e35aef03099cd1f2d6446734273025a163597de93912df321ef118bf135238/
 https://www.virustotal.com/gui/file/720a7ee9f2178c70501d7e3f4bcc28a4f456e200486dbd401b25af6da3b4da62/content
 https://www.virustotal.com/gui/file/72f1a5476a845ea02344c9b7edecfe399f64b52409229edaf856fcb9535e3242
 https://www.virustotal.com/gui/file/7872d8845a332dce517adae9c3389fde5313ff2fed38c2577f3b498da786db68/behavior
