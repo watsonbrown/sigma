@@ -439,6 +439,7 @@ https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-secur
 https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-user-settings#GRANT_ADMIN_PRIVILEGE
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.Firewalls.html
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.PacketMirrorings.html
+https://developers.google.com/workspace/admin/reports/v1/appendix/activity/login#email_forwarding_out_of_domain
 https://developers.onelogin.com/api-docs/1/events/event-resource
 https://developers.onelogin.com/api-docs/1/events/event-resource/
 https://deviceatlas.com/blog/list-of-user-agent-strings#desktop
@@ -481,8 +482,10 @@ https://docs.aws.amazon.com/singlesignon/latest/userguide/app-enablement.html
 https://docs.aws.amazon.com/singlesignon/latest/userguide/sso-info-in-cloudtrail.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRoleWithSAML.html
+https://docs.aws.amazon.com/STS/latest/APIReference/API_GetCallerIdentity.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
+https://docs.datadoghq.com/security/default_rules/719-39f-9cd/
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
 https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
@@ -935,6 +938,7 @@ https://github.com/dotnet/runtime/blob/7abe42dc1123722ed385218268bb9fe04556e3d3/
 https://github.com/dotnet/runtime/blob/ee2355c801d892f2894b0f7b14a20e6cc50e0e54/docs/design/coreclr/jit/viewing-jit-dumps.md#setting-configuration-variables
 https://github.com/dotnet/runtime/blob/f62e93416a1799aecc6b0947adad55a0d9870732/src/coreclr/src/inc/clrconfigvalues.h#L35-L38
 https://github.com/dotnet/runtime/search?p=1&q=COMPlus_&unscoped_q=COMPlus_
+https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC
 https://github.com/dsnezhkov/TruffleSnout
 https://github.com/dsnezhkov/TruffleSnout/blob/7c2f22e246ef704bc96c396f66fa854e9ca742b9/TruffleSnout/Docs/USAGE.md
 https://github.com/dsnezhkov/TruffleSnout/blob/master/TruffleSnout/Docs/USAGE.md
@@ -957,6 +961,7 @@ https://github.com/elastic/detection-rules/blob/c76a39796972ecde44cb1da6df47f1b6
 https://github.com/elastic/detection-rules/blob/da3852b681cf1a33898b1535892eab1f3a76177a/rules/integrations/azure/defense_evasion_kubernetes_events_deleted.toml
 https://github.com/elastic/detection-rules/blob/dd224fb3f81d0b4bf8593c5f02a029d647ba2b2d/rules/windows/credential_access_relay_ntlm_auth_via_http_spoolss.toml
 https://github.com/elastic/detection-rules/blob/fb6ee2c69864ffdfe347bf3b050cb931f53067a6/rules/windows/privilege_escalation_krbrelayup_suspicious_logon.toml
+https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/defense_evasion_guardduty_detector_deletion.toml
 https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/initial_access_via_system_manager.toml
 https://github.com/elastic/detection-rules/blob/v8.6.0/rules/integrations/aws/initial_access_via_system_manager.toml
 https://github.com/elastic/detection-rules/issues/1371
@@ -2152,8 +2157,10 @@ https://learn.microsoft.com/en-us/windows/security/application-security/applicat
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/what-is-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/operations/event-id-explanations
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/operations/event-tag-explanations
 https://learn.microsoft.com/en-us/windows/security/hardware-security/enable-virtualization-based-protection-of-code-integrity
+https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/configure
 https://learn.microsoft.com/en-us/windows/security/identity-protection/virtual-smart-cards/virtual-smart-card-tpmvscmgr
 https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4634
 https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4647
@@ -2199,6 +2206,7 @@ https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-remotely-starting-with-vista
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
+https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/fsutil-behavior
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
@@ -2499,6 +2507,7 @@ https://nvd.nist.gov/vuln/detail/CVE-2023-2283
 https://nvd.nist.gov/vuln/detail/CVE-2024-3400
 https://nvd.nist.gov/vuln/detail/CVE-2025-2825
 https://nvd.nist.gov/vuln/detail/CVE-2025-30406
+https://nvd.nist.gov/vuln/detail/CVE-2025-5054
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf
 https://nwgat.ninja/getting-system-information-with-wmic-on-windows/
 https://nxlog.co/documentation/nxlog-user-guide/applocker.html
@@ -2747,6 +2756,7 @@ https://securityintelligence.com/posts/raspberry-robin-worm-dridex-malware/
 https://securityintelligence.com/x-force/x-force-hive0129-targeting-financial-institutions-latam-banking-trojan/
 https://securityjosh.github.io/2020/04/23/Mute-Sysmon.html
 https://securitylab.github.com/research/octopus-scanner-malware-open-source-supply-chain
+https://securitylabs.datadoghq.com/articles/shai-hulud-2.0-npm-worm/
 https://securitylabs.datadoghq.com/cloud-security-atlas/vulnerabilities/iam-user-without-mfa/
 https://securityliterate.com/how-malware-abuses-the-zone-identifier-to-circumvent-detection-and-analysis/
 https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware
@@ -3425,6 +3435,7 @@ https://unit42.paloaltonetworks.com/unit42-sure-ill-take-new-combojack-malware-a
 https://unit42.paloaltonetworks.com/unit42-technical-walkthrough-office-test-persistence-method-used-in-recent-sofacy-attacks/
 https://unit42.paloaltonetworks.com/unsigned-dlls/?web_view=true
 https://us-cert.cisa.gov/ncas/alerts/aa21-008a
+https://us-cert.cisa.gov/ncas/alerts/aa21-259a
 https://us-cert.cisa.gov/ncas/analysis-reports/ar19-304a
 https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-112a
@@ -3466,6 +3477,7 @@ https://web.archive.org/web/20200302083912/https://www.accenture.com/t20180127T0
 https://web.archive.org/web/20200329173843/https://p16.praetorian.com/blog/how-to-use-kerberoasting-t1208-for-privilege-escalation
 https://web.archive.org/web/20200419024230/https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
 https://web.archive.org/web/20200530031708/https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://web.archive.org/web/20200601000524/https://cyberx-labs.com/blog/gangnam-industrial-style-apt-campaign-targets-korean-industrial-companies/
 https://web.archive.org/web/20200618080300/https://www.verfassungsschutz.de/embed/broschuere-2020-06-bfv-cyber-brief-2020-01.pdf
 https://web.archive.org/web/20200903194959/https://twitter.com/djmtshepana/status/1301608169496612866
 https://web.archive.org/web/20200925032237/https://threathunterplaybook.com/notebooks/windows/02_execution/WIN-190410151110.html
@@ -3766,6 +3778,7 @@ https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
 https://www.huntress.com/blog/curling-for-data-a-dive-into-a-threat-actors-malicious-ttps
+https://www.huntress.com/blog/know-thy-enemy-a-novel-november-case-on-persistent-remote-access
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/the-unwanted-guest
@@ -3828,6 +3841,7 @@ https://www.kroll.com/en/insights/publications/cyber/new-m365-business-email-com
 https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
+https://www.linkedin.com/posts/kevin-beaumont-security_ive-been-assisting-a-few-orgs-hit-with-successful-activity-7268055739116445701-xxjZ/
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
@@ -4002,6 +4016,7 @@ https://www.rapid7.com/blog/post/2023/01/19/etr-exploitation-of-control-web-pane
 https://www.rapid7.com/blog/post/2023/02/07/etr-cve-2022-21587-rapid7-observed-exploitation-of-oracle-e-business-suite-vulnerability/
 https://www.rapid7.com/blog/post/2023/06/01/rapid7-observed-exploitation-of-critical-moveit-transfer-vulnerability/
 https://www.rapid7.com/blog/post/2023/10/25/etr-cve-2023-4966-exploitation-of-citrix-netscaler-information-disclosure-vulnerability/
+https://www.rapid7.com/blog/post/tr-bpfdoor-telecom-networks-sleeper-cells-threat-research-report/
 https://www.rarlab.com/vuln_rev3_names.html
 https://www.real-sec.com/2019/04/bypassing-network-restrictions-through-rdp-tunneling/
 https://www.reddit.com/r/crowdstrike/comments/125r3uu/20230329_situational_awareness_crowdstrike/
@@ -4122,6 +4137,7 @@ https://www.trendmicro.com/en_us/research/24/b/threat-actor-groups-including-bla
 https://www.trendmicro.com/en_us/research/24/c/cve-2024-21412--darkgate-operators-exploit-microsoft-windows-sma.html
 https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
 https://www.trendmicro.com/en_us/research/25/f/water-curse.html
+https://www.trendmicro.com/en_us/research/25/i/unmasking-the-gentlemen-ransomware.html
 https://www.trendmicro.com/en_za/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
 https://www.trendmicro.com/pl_pl/research/20/i/the-evolution-of-malicious-shell-scripts.html
 https://www.trendmicro.com/vinfo/hk-en/security/news/cybercrime-and-digital-threats/malicious-spam-campaign-uses-iso-image-files-to-deliver-lokibot-and-nanocore
